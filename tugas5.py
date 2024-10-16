@@ -6,4 +6,4 @@ for i in range(1, n + 1):
         print(i, end=" ")
     print()
 
-    #Program ini mencetak pola angka dengan bentuk segitiga. Setiap baris ke-i mencetak angka i sebanyak i kali.
+    #Program ini mencetak pola angka dengan bentuk segitiga. Setiap baris ke-i mencetak angka i sebanyak i kali
